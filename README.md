@@ -39,8 +39,8 @@
 
 
 # My Github stats
-![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Orchestratooor1&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Orchestratooor1&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![1Orchestratooor1's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Orchestratooor1&hide=issues&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Orchestratooor1&layout=compact&theme=gotham)](https://github.com/1Orchestratooor1/github-readme-stats)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@1Orchestratooor1/79cd408d-2c54-421e-aef3-ef0007369468.png" width = 400px /></a>
 
