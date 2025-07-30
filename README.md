@@ -6,7 +6,7 @@
 </p>
 
 ## Sobre mí
-- Actualmente me encuentro en mi último año de la tecnología en desarrollo de software en la universidad del Valle ubicada en Colombia, aquí puedes encontrar todos los proyectos en los cuales me encuentro trabajando y en los que he trabajado, me gusta aportar en las decisiones relacionadas con la lógica de las aplicaciones ya sea desde la parte de bases de datos o en el flujo de la misma.<br>
+- Soy desarrollador de software graduado de la universidad del Valle ubicada en Colombia, aquí puedes encontrar todos los proyectos en los cuales me encuentro trabajando y en los que he trabajado, me gusta aportar en las decisiones relacionadas con la lógica de las aplicaciones ya sea desde la parte de bases de datos o en el flujo de la misma.<br>
 - Me encuentro puliendo mis skills relacionados la parte del diseño UI/UX.<br>
 - Estoy interesado en aprender sobre inteligencia artificial y blockchain.<br>
 - Me gusta explicar lo que sé y escuchar y adquirir conocimiento de personas que tengan experticia sobre algún tema que sea de mi interés
